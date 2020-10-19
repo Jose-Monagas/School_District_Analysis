@@ -18,12 +18,11 @@ Tasks performed:
 1. As we can observe in the images below, there was no major effect on the key metrics for the district summary after removing the math and reading grades  of 9th graders at Thomas High School. As expected the only slight changes occured in the variables linked to math and reading grades .
 
 ![Distric Summary Before Changes](Resources/District_summary_old.jpg)
-           **Image 1- District summary before**
+ **Image 1- District summary before**
 ![District Summary After Changes](Resources/District_summary_current.jpg)
-
 **Image 2- District Summary After**
 
-1. The school summary was only affected in the row related to Thomas High School as we can observe below. Especifically the percentage passing math, reading, and overall passing.
+2. The school summary was only affected in the row related to Thomas High School as we can observe below. Especifically the percentage passing math, reading, and overall passing.
 ![Per School Summary Before](Resources/Per_School_Summary_before.jpg)
 **Image 3 - School Summary Before**
 
@@ -37,7 +36,7 @@ Tasks performed:
 
 4.2. Scores by school spending, size and type  were not affected after removing the ninth graders.
 
-##**Summary**
+## **Summary**
 Four major changes after removing the reading and math scores for the ninth grade at Thomas High School were:
 1. The Math and reading scores are not available for night graders at Thomas High School.
 2. The new total number of students after subtracting the 9thn graders dropped by 461.
