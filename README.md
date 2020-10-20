@@ -43,15 +43,15 @@ Tasks performed:
 
 3. After removing the ninth graders math and reading scores, Thomas High Scool rank reamined as the second best in the school summary.  
 
-4.1. Math and reading scores: grade are not availabe for 9th graders because they were remove from our analysis.
+ 4.1. Math and reading scores: grade are not availabe for 9th graders because they were remove from our analysis.
 
-4.2. Scores by school spending, size and type  were not affected after removing the ninth graders.
+ 4.2. Scores by school spending, size and type  were not affected after removing the ninth graders.
 
 ## **Summary**
 Four major changes after removing the reading and math scores for the ninth grade at Thomas High School were:
 1. The Math and reading scores are not available for night graders at Thomas High School.
-2. The new total number of students after subtracting the 9thn graders dropped by 461.
+2. The new total number of students after subtracting the 9th graders dropped by 461.
 3. The passing reading for disctrict summary dropped from 86% to 85.7%
-4. The passing math an passing reading percentages for district summary were affected the most after removing the ninth grade at Thomas High School.
+4. The passing math an passing reading percentages for district summary were affected the most after removing the ninth graders at Thomas High School.
 
 
