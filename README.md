@@ -3,8 +3,8 @@
 The following analysis is performed  on a school district dataset. We want to provide insight about school performance, trends, and patterns for discussions and decisions at the school and district level. Our school district dataset consists of student funding and student's test scores. Math and reading scores, respectively. 
 Tasks performed:
 
-1. Adjust the reading and math scores for the 9th graders at Thomas High School due to evidence of academic dishonesty.
-2. Create an overview of the key metrics for each school, presented in a table format
+1. Adjusted the reading and math scores for the 9th graders at Thomas High School due to evidence of academic dishonesty.
+2. Created an overview of the key metrics for each school, presented in a table format
 3. Created tables presenting each of the following metrics:
     3.1 Top 5 and bottom 5 performing schools, based on the overall passing rate
     3.2 The average math score received by students in each grade level at each school
