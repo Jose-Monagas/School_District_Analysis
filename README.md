@@ -6,11 +6,17 @@ Tasks performed:
 1. Adjusted the reading and math scores for the 9th graders at Thomas High School due to evidence of academic dishonesty.
 2. Created an overview of the key metrics for each school, presented in a table format
 3. Created tables presenting each of the following metrics:
+
     3.1 Top 5 and bottom 5 performing schools, based on the overall passing rate
+    
     3.2 The average math score received by students in each grade level at each school
+    
     3.3 The average reading score received by students in each grade level at each school
+    
     3.4 School performance based on the budget per student
+    
     3.5 School performance based on the school size 
+    
     3.6 School performance based on the type of school
 
 ## **Results**
